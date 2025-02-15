@@ -1,4 +1,4 @@
-import defaults from '../packs/default.json';
+import {defaults} from '../packs/default.js';
 
 export var importTable = [defaults];
 export var emotesClass = {
