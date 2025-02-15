@@ -1,0 +1,16 @@
+{
+  "name": "discord-emote-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "snowpack.config.js",
+  "scripts": {
+    "dev": "npx snowpack dev",
+    "build": "npx snowpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "snowpack": "^3.8.8"
+  }
+}

@@ -1,14 +1,15 @@
-# Discord Emotes Tool
-Turn Discord Nitro emotes into fake ones that can be used by anyone.
+# Emote Board
+Simple web tool that allows users to save Discord emotes and use them in-app without Discord Nitro.
 
-## How to save emotes
-1. Right click Discord emote
-2. From the context menu, select "Copy Link"
-3. Paste the link into the input field, located at the top of website
-*Once you have saved an emote, it should appear below the input bar*
+### How do I use this tool?
 
-## How to use saved emotes
-1. Click the emote that you would like to use
-2. Paste (Ctrl + V or Right click > Paste) into Discord, or wherever you want to use it, and send
+#### Saving Emotes
+1. Right click on the emote that you would like to save (Must be on Discord).
+2. From this context menu, choose `Copy Link`.
+3. Paste the link into the tools' input field at the top.
 
-**Note:** This will turn a Discord emote link into a .gif link but retains its original size to make it appear as a normal emote. Saved emotes do not get removed when the browser tab is closed.
+#### Using Saved Emotes
+4. Click on an emote to paste its link to your clipboard.
+5. Paste your link into Discord.
+
+**Note:** The emote will now be saved in your browsers localStorage, which means it will not be lost after closing the tab.

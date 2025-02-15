@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.png">
+    <title>Discord Emote Board</title>
+</head>
+<body>
+
+    <div style="display: flex;width:90%;margin: auto;flex-direction: column;">
+        <form onsubmit="return false">
+            <input id="entryField" type="text" name="entryField" placeholder="Enter Emote URL">
+        </form>
+        <div id="imageContentWrapper">
+            <div id="imagesContainer"></div>
+        </div>
+    </div>
+
+    <div id="footer"><a target="_blank" href="https://github.com/brendanprice2003/Discord-Emote-Board#how-do-i-use-this-tool">How to Use</a> | Discord Emote Board | <a target="_blank" href="https://twitter.com/_brendanprice">@_brendanprice</a></div>
+
+    <script src="scripts/packs.js" type="module"></script>
+    <script src="scripts/index.js" type="module"></script>
+</body>
+</html>
