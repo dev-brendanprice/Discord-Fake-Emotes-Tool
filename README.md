@@ -1,4 +1,4 @@
-# Discord-Fake-Emotes-Tool
+# Discord Emotes Tool
 Turn Discord Nitro emotes into fake ones that can be used by anyone.
 
 ## How to save emotes
