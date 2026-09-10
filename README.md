@@ -1,6 +1,8 @@
 # Emote Board
 Simple web tool that allows users to save Discord emotes and use them in-app without Discord Nitro.
 
+[Visit Website](https://emote.brendanprice.xyz)
+
 ### How do I use this tool?
 
 #### Saving Emotes
